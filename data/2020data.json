@@ -1,0 +1,2684 @@
+[
+  {
+    "anime_id": 1535,
+    "Name": "Death Note",
+    "Ratings": 8.63,
+    "Genres": "Mystery, Police, Psychological, Supernatural, Thriller, Shounen",
+    "Type": "TV",
+    "Episodes": 37,
+    "Members": 2589552
+  },
+  {
+    "anime_id": 16498,
+    "Name": "Shingeki no Kyojin",
+    "Ratings": 8.48,
+    "Genres": "Action, Military, Mystery, Super Power, Drama, Fantasy, Shounen",
+    "Type": "TV",
+    "Episodes": 25,
+    "Members": 2531397
+  },
+  {
+    "anime_id": 5114,
+    "Name": "Fullmetal Alchemist: Brotherhood",
+    "Ratings": 9.19,
+    "Genres": "Action, Military, Adventure, Comedy, Drama, Magic, Fantasy, Shounen",
+    "Type": "TV",
+    "Episodes": 64,
+    "Members": 2248456
+  },
+  {
+    "anime_id": 11757,
+    "Name": "Sword Art Online",
+    "Ratings": 7.25,
+    "Genres": "Action, Game, Adventure, Romance, Fantasy",
+    "Type": "TV",
+    "Episodes": 25,
+    "Members": 2214395
+  },
+  {
+    "anime_id": 30276,
+    "Name": "One Punch Man",
+    "Ratings": 8.57,
+    "Genres": "Action, Sci-Fi, Comedy, Parody, Super Power, Supernatural",
+    "Type": "TV",
+    "Episodes": 12,
+    "Members": 2123866
+  },
+  {
+    "anime_id": 31964,
+    "Name": "Boku no Hero Academia",
+    "Ratings": 8.11,
+    "Genres": "Action, Comedy, School, Shounen, Super Power",
+    "Type": "TV",
+    "Episodes": 13,
+    "Members": 1909814
+  },
+  {
+    "anime_id": 22319,
+    "Name": "Tokyo Ghoul",
+    "Ratings": 7.81,
+    "Genres": "Action, Mystery, Horror, Psychological, Supernatural, Drama, Seinen",
+    "Type": "TV",
+    "Episodes": 12,
+    "Members": 1895488
+  },
+  {
+    "anime_id": 20,
+    "Name": "Naruto",
+    "Ratings": 7.91,
+    "Genres": "Action, Adventure, Comedy, Super Power, Martial Arts, Shounen",
+    "Type": "TV",
+    "Episodes": 220,
+    "Members": 1830540
+  },
+  {
+    "anime_id": 9253,
+    "Name": "Steins;Gate",
+    "Ratings": 9.11,
+    "Genres": "Thriller, Sci-Fi",
+    "Type": "TV",
+    "Episodes": 24,
+    "Members": 1771162
+  },
+  {
+    "anime_id": 19815,
+    "Name": "No Game No Life",
+    "Ratings": 8.2,
+    "Genres": "Game, Adventure, Comedy, Supernatural, Ecchi, Fantasy",
+    "Type": "TV",
+    "Episodes": 12,
+    "Members": 1751054
+  },
+  {
+    "anime_id": 32281,
+    "Name": "Kimi no Na wa.",
+    "Ratings": 8.96,
+    "Genres": "Romance, Supernatural, School, Drama",
+    "Type": "Movie",
+    "Episodes": 1,
+    "Members": 1726660
+  },
+  {
+    "anime_id": 11061,
+    "Name": "Hunter x Hunter (2011)",
+    "Ratings": 9.1,
+    "Genres": "Action, Adventure, Fantasy, Shounen, Super Power",
+    "Type": "TV",
+    "Episodes": 148,
+    "Members": 1673924
+  },
+  {
+    "anime_id": 33486,
+    "Name": "Boku no Hero Academia 2nd Season",
+    "Ratings": 8.33,
+    "Genres": "Action, Comedy, Super Power, School, Shounen",
+    "Type": "TV",
+    "Episodes": 25,
+    "Members": 1611771
+  },
+  {
+    "anime_id": 6547,
+    "Name": "Angel Beats!",
+    "Ratings": 8.15,
+    "Genres": "Action, Comedy, Drama, School, Supernatural",
+    "Type": "TV",
+    "Episodes": 13,
+    "Members": 1591773
+  },
+  {
+    "anime_id": 25777,
+    "Name": "Shingeki no Kyojin Season 2",
+    "Ratings": 8.45,
+    "Genres": "Action, Military, Mystery, Super Power, Drama, Fantasy, Shounen",
+    "Type": "TV",
+    "Episodes": 12,
+    "Members": 1591506
+  },
+  {
+    "anime_id": 1575,
+    "Name": "Code Geass: Hangyaku no Lelouch",
+    "Ratings": 8.72,
+    "Genres": "Action, Military, Sci-Fi, Super Power, Drama, Mecha, School",
+    "Type": "TV",
+    "Episodes": 25,
+    "Members": 1583882
+  },
+  {
+    "anime_id": 4224,
+    "Name": "Toradora!",
+    "Ratings": 8.24,
+    "Genres": "Slice of Life, Comedy, Romance, School",
+    "Type": "TV",
+    "Episodes": 25,
+    "Members": 1567792
+  },
+  {
+    "anime_id": 1735,
+    "Name": "Naruto: Shippuuden",
+    "Ratings": 8.16,
+    "Genres": "Action, Adventure, Comedy, Super Power, Martial Arts, Shounen",
+    "Type": "TV",
+    "Episodes": 500,
+    "Members": 1543765
+  },
+  {
+    "anime_id": 20507,
+    "Name": "Noragami",
+    "Ratings": 8.01,
+    "Genres": "Action, Adventure, Comedy, Supernatural, Shounen",
+    "Type": "TV",
+    "Episodes": 12,
+    "Members": 1535575
+  },
+  {
+    "anime_id": 10620,
+    "Name": "Mirai Nikki",
+    "Ratings": 7.54,
+    "Genres": "Action, Mystery, Psychological, Shounen, Supernatural, Thriller",
+    "Type": "TV",
+    "Episodes": 26,
+    "Members": 1533289
+  },
+  {
+    "anime_id": 31240,
+    "Name": "Re:Zero kara Hajimeru Isekai Seikatsu",
+    "Ratings": 8.29,
+    "Genres": "Psychological, Drama, Thriller, Fantasy",
+    "Type": "TV",
+    "Episodes": 25,
+    "Members": 1478842
+  },
+  {
+    "anime_id": 23273,
+    "Name": "Shigatsu wa Kimi no Uso",
+    "Ratings": 8.74,
+    "Genres": "Drama, Music, Romance, School, Shounen",
+    "Type": "TV",
+    "Episodes": 22,
+    "Members": 1442330
+  },
+  {
+    "anime_id": 21881,
+    "Name": "Sword Art Online II",
+    "Ratings": 6.79,
+    "Genres": "Action, Game, Adventure, Romance, Fantasy",
+    "Type": "TV",
+    "Episodes": 24,
+    "Members": 1437210
+  },
+  {
+    "anime_id": 38000,
+    "Name": "Kimetsu no Yaiba",
+    "Ratings": 8.62,
+    "Genres": "Action, Demons, Historical, Shounen, Supernatural",
+    "Type": "TV",
+    "Episodes": 26,
+    "Members": 1423778
+  },
+  {
+    "anime_id": 9919,
+    "Name": "Ao no Exorcist",
+    "Ratings": 7.59,
+    "Genres": "Action, Demons, Fantasy, Shounen, Supernatural",
+    "Type": "TV",
+    "Episodes": 25,
+    "Members": 1417630
+  },
+  {
+    "anime_id": 22199,
+    "Name": "Akame ga Kill!",
+    "Ratings": 7.53,
+    "Genres": "Action, Adventure, Drama, Fantasy, Shounen",
+    "Type": "TV",
+    "Episodes": 24,
+    "Members": 1408729
+  },
+  {
+    "anime_id": 23755,
+    "Name": "Nanatsu no Taizai",
+    "Ratings": 7.89,
+    "Genres": "Action, Adventure, Ecchi, Fantasy, Magic, Shounen, Supernatural",
+    "Type": "TV",
+    "Episodes": 24,
+    "Members": 1394358
+  },
+  {
+    "anime_id": 28851,
+    "Name": "Koe no Katachi",
+    "Ratings": 9,
+    "Genres": "Drama, School, Shounen",
+    "Type": "Movie",
+    "Episodes": 1,
+    "Members": 1387607
+  },
+  {
+    "anime_id": 31043,
+    "Name": "Boku dake ga Inai Machi",
+    "Ratings": 8.37,
+    "Genres": "Mystery, Psychological, Supernatural, Seinen",
+    "Type": "TV",
+    "Episodes": 12,
+    "Members": 1359119
+  },
+  {
+    "anime_id": 21,
+    "Name": "One Piece",
+    "Ratings": 8.52,
+    "Genres": "Action, Adventure, Comedy, Super Power, Drama, Fantasy, Shounen",
+    "Type": "TV",
+    "Episodes": "Unknown",
+    "Members": 1352724
+  },
+  {
+    "anime_id": 36456,
+    "Name": "Boku no Hero Academia 3rd Season",
+    "Ratings": 8.25,
+    "Genres": "Action, Comedy, Super Power, School, Shounen",
+    "Type": "TV",
+    "Episodes": 25,
+    "Members": 1333355
+  },
+  {
+    "anime_id": 6702,
+    "Name": "Fairy Tail",
+    "Ratings": 7.68,
+    "Genres": "Action, Adventure, Comedy, Magic, Fantasy, Shounen",
+    "Type": "TV",
+    "Episodes": 175,
+    "Members": 1312470
+  },
+  {
+    "anime_id": 30831,
+    "Name": "Kono Subarashii Sekai ni Shukufuku wo!",
+    "Ratings": 8.15,
+    "Genres": "Adventure, Comedy, Fantasy, Magic, Parody, Supernatural",
+    "Type": "TV",
+    "Episodes": 10,
+    "Members": 1290898
+  },
+  {
+    "anime_id": 269,
+    "Name": "Bleach",
+    "Ratings": 7.8,
+    "Genres": "Action, Adventure, Comedy, Super Power, Supernatural, Shounen",
+    "Type": "TV",
+    "Episodes": 366,
+    "Members": 1286382
+  },
+  {
+    "anime_id": 18679,
+    "Name": "Kill la Kill",
+    "Ratings": 8.11,
+    "Genres": "Action, Comedy, Super Power, Ecchi, School",
+    "Type": "TV",
+    "Episodes": 24,
+    "Members": 1283021
+  },
+  {
+    "anime_id": 2904,
+    "Name": "Code Geass: Hangyaku no Lelouch R2",
+    "Ratings": 8.91,
+    "Genres": "Action, Military, Sci-Fi, Super Power, Drama, Mecha",
+    "Type": "TV",
+    "Episodes": 25,
+    "Members": 1268320
+  },
+  {
+    "anime_id": 24833,
+    "Name": "Ansatsu Kyoushitsu",
+    "Ratings": 8.12,
+    "Genres": "Action, Comedy, School, Shounen",
+    "Type": "TV",
+    "Episodes": 22,
+    "Members": 1264954
+  },
+  {
+    "anime_id": 32182,
+    "Name": "Mob Psycho 100",
+    "Ratings": 8.49,
+    "Genres": "Action, Slice of Life, Comedy, Supernatural",
+    "Type": "TV",
+    "Episodes": 12,
+    "Members": 1255830
+  },
+  {
+    "anime_id": 1,
+    "Name": "Cowboy Bebop",
+    "Ratings": 8.78,
+    "Genres": "Action, Adventure, Comedy, Drama, Sci-Fi, Space",
+    "Type": "TV",
+    "Episodes": 26,
+    "Members": 1251960
+  },
+  {
+    "anime_id": 199,
+    "Name": "Sen to Chihiro no Kamikakushi",
+    "Ratings": 8.83,
+    "Genres": "Adventure, Supernatural, Drama",
+    "Type": "Movie",
+    "Episodes": 1,
+    "Members": 1245727
+  },
+  {
+    "anime_id": 22535,
+    "Name": "Kiseijuu: Sei no Kakuritsu",
+    "Ratings": 8.4,
+    "Genres": "Action, Sci-Fi, Horror, Psychological, Drama, Seinen",
+    "Type": "TV",
+    "Episodes": 24,
+    "Members": 1243239
+  },
+  {
+    "anime_id": 27899,
+    "Name": "Tokyo Ghoul √A",
+    "Ratings": 7.07,
+    "Genres": "Action, Mystery, Horror, Psychological, Supernatural, Drama, Seinen",
+    "Type": "TV",
+    "Episodes": 12,
+    "Members": 1226168
+  },
+  {
+    "anime_id": 11111,
+    "Name": "Another",
+    "Ratings": 7.55,
+    "Genres": "Mystery, Horror, Supernatural, Thriller, School",
+    "Type": "TV",
+    "Episodes": 12,
+    "Members": 1219780
+  },
+  {
+    "anime_id": 3588,
+    "Name": "Soul Eater",
+    "Ratings": 7.88,
+    "Genres": "Action, Fantasy, Comedy, Supernatural, Shounen",
+    "Type": "TV",
+    "Episodes": 51,
+    "Members": 1218423
+  },
+  {
+    "anime_id": 28223,
+    "Name": "Death Parade",
+    "Ratings": 8.2,
+    "Genres": "Game, Mystery, Psychological, Drama, Thriller",
+    "Type": "TV",
+    "Episodes": 12,
+    "Members": 1213828
+  },
+  {
+    "anime_id": 2001,
+    "Name": "Tengen Toppa Gurren Lagann",
+    "Ratings": 8.66,
+    "Genres": "Action, Adventure, Comedy, Mecha, Sci-Fi",
+    "Type": "TV",
+    "Episodes": 27,
+    "Members": 1213765
+  },
+  {
+    "anime_id": 35760,
+    "Name": "Shingeki no Kyojin Season 3",
+    "Ratings": 8.59,
+    "Genres": "Action, Military, Mystery, Super Power, Drama, Fantasy, Shounen",
+    "Type": "TV",
+    "Episodes": 12,
+    "Members": 1212430
+  },
+  {
+    "anime_id": 13601,
+    "Name": "Psycho-Pass",
+    "Ratings": 8.38,
+    "Genres": "Action, Sci-Fi, Police, Psychological",
+    "Type": "TV",
+    "Episodes": 22,
+    "Members": 1211503
+  },
+  {
+    "anime_id": 226,
+    "Name": "Elfen Lied",
+    "Ratings": 7.56,
+    "Genres": "Action, Horror, Psychological, Supernatural, Drama, Romance, Seinen",
+    "Type": "TV",
+    "Episodes": 13,
+    "Members": 1187921
+  },
+  {
+    "anime_id": 20583,
+    "Name": "Haikyuu!!",
+    "Ratings": 8.53,
+    "Genres": "Comedy, Sports, Drama, School, Shounen",
+    "Type": "TV",
+    "Episodes": 25,
+    "Members": 1185274
+  },
+  {
+    "anime_id": 28171,
+    "Name": "Shokugeki no Souma",
+    "Ratings": 8.29,
+    "Genres": "Ecchi, School, Shounen",
+    "Type": "TV",
+    "Episodes": 24,
+    "Members": 1167795
+  },
+  {
+    "anime_id": 30,
+    "Name": "Neon Genesis Evangelion",
+    "Ratings": 8.32,
+    "Genres": "Action, Sci-Fi, Dementia, Psychological, Drama, Mecha",
+    "Type": "TV",
+    "Episodes": 26,
+    "Members": 1160651
+  },
+  {
+    "anime_id": 9989,
+    "Name": "Ano Hi Mita Hana no Namae wo Bokutachi wa Mada Shiranai.",
+    "Ratings": 8.42,
+    "Genres": "Slice of Life, Supernatural, Drama",
+    "Type": "TV",
+    "Episodes": 11,
+    "Members": 1157747
+  },
+  {
+    "anime_id": 121,
+    "Name": "Fullmetal Alchemist",
+    "Ratings": 8.17,
+    "Genres": "Action, Adventure, Comedy, Drama, Fantasy, Magic, Military, Shounen",
+    "Type": "TV",
+    "Episodes": 51,
+    "Members": 1151621
+  },
+  {
+    "anime_id": 37779,
+    "Name": "Yakusoku no Neverland",
+    "Ratings": 8.65,
+    "Genres": "Sci-Fi, Mystery, Horror, Psychological, Thriller, Shounen",
+    "Type": "TV",
+    "Episodes": 12,
+    "Members": 1133952
+  },
+  {
+    "anime_id": 6746,
+    "Name": "Durarara!!",
+    "Ratings": 8.18,
+    "Genres": "Action, Mystery, Supernatural",
+    "Type": "TV",
+    "Episodes": 24,
+    "Members": 1111256
+  },
+  {
+    "anime_id": 8074,
+    "Name": "Highschool of the Dead",
+    "Ratings": 7.15,
+    "Genres": "Action, Horror, Supernatural, Ecchi, Shounen",
+    "Type": "TV",
+    "Episodes": 12,
+    "Members": 1108591
+  },
+  {
+    "anime_id": 2167,
+    "Name": "Clannad",
+    "Ratings": 8.07,
+    "Genres": "Comedy, Drama, Romance, School, Slice of Life, Supernatural",
+    "Type": "TV",
+    "Episodes": 23,
+    "Members": 1095634
+  },
+  {
+    "anime_id": 10087,
+    "Name": "Fate/Zero",
+    "Ratings": 8.34,
+    "Genres": "Action, Supernatural, Magic, Fantasy",
+    "Type": "TV",
+    "Episodes": 13,
+    "Members": 1090273
+  },
+  {
+    "anime_id": 28121,
+    "Name": "Dungeon ni Deai wo Motomeru no wa Machigatteiru Darou ka",
+    "Ratings": 7.64,
+    "Genres": "Action, Adventure, Comedy, Romance, Fantasy",
+    "Type": "TV",
+    "Episodes": 13,
+    "Members": 1075095
+  },
+  {
+    "anime_id": 38524,
+    "Name": "Shingeki no Kyojin Season 3 Part 2",
+    "Ratings": 9.1,
+    "Genres": "Action, Drama, Fantasy, Military, Mystery, Shounen, Super Power",
+    "Type": "TV",
+    "Episodes": 10,
+    "Members": 1073626
+  },
+  {
+    "anime_id": 5081,
+    "Name": "Bakemonogatari",
+    "Ratings": 8.36,
+    "Genres": "Romance, Supernatural, Mystery, Vampire",
+    "Type": "TV",
+    "Episodes": 15,
+    "Members": 1063666
+  },
+  {
+    "anime_id": 15809,
+    "Name": "Hataraku Maou-sama!",
+    "Ratings": 7.83,
+    "Genres": "Comedy, Demons, Supernatural, Romance, Fantasy",
+    "Type": "TV",
+    "Episodes": 13,
+    "Members": 1061216
+  },
+  {
+    "anime_id": 28999,
+    "Name": "Charlotte",
+    "Ratings": 7.77,
+    "Genres": "Drama, School, Super Power",
+    "Type": "TV",
+    "Episodes": 13,
+    "Members": 1057447
+  },
+  {
+    "anime_id": 29803,
+    "Name": "Overlord",
+    "Ratings": 7.96,
+    "Genres": "Action, Adventure, Fantasy, Game, Magic, Supernatural",
+    "Type": "TV",
+    "Episodes": 13,
+    "Members": 1039944
+  },
+  {
+    "anime_id": 30503,
+    "Name": "Noragami Aragoto",
+    "Ratings": 8.22,
+    "Genres": "Action, Adventure, Comedy, Supernatural, Shounen",
+    "Type": "TV",
+    "Episodes": 13,
+    "Members": 1039422
+  },
+  {
+    "anime_id": 33352,
+    "Name": "Violet Evergarden",
+    "Ratings": 8.64,
+    "Genres": "Slice of Life, Drama, Fantasy",
+    "Type": "TV",
+    "Episodes": 13,
+    "Members": 1039300
+  },
+  {
+    "anime_id": 11617,
+    "Name": "High School DxD",
+    "Ratings": 7.4,
+    "Genres": "Comedy, Demons, Ecchi, Harem, Romance, School",
+    "Type": "TV",
+    "Episodes": 12,
+    "Members": 995532
+  },
+  {
+    "anime_id": 34134,
+    "Name": "One Punch Man 2nd Season",
+    "Ratings": 7.41,
+    "Genres": "Action, Sci-Fi, Comedy, Parody, Super Power, Supernatural",
+    "Type": "TV",
+    "Episodes": 12,
+    "Members": 994488
+  },
+  {
+    "anime_id": 32937,
+    "Name": "Kono Subarashii Sekai ni Shukufuku wo! 2",
+    "Ratings": 8.31,
+    "Genres": "Adventure, Comedy, Parody, Supernatural, Magic, Fantasy",
+    "Type": "TV",
+    "Episodes": 10,
+    "Members": 990857
+  },
+  {
+    "anime_id": 35849,
+    "Name": "Darling in the FranXX",
+    "Ratings": 7.33,
+    "Genres": "Action, Drama, Mecha, Romance, Sci-Fi",
+    "Type": "TV",
+    "Episodes": 24,
+    "Members": 988865
+  },
+  {
+    "anime_id": 14813,
+    "Name": "Yahari Ore no Seishun Love Comedy wa Machigatteiru.",
+    "Ratings": 8.07,
+    "Genres": "Slice of Life, Comedy, Drama, Romance, School",
+    "Type": "TV",
+    "Episodes": 13,
+    "Members": 971934
+  },
+  {
+    "anime_id": 9756,
+    "Name": "Mahou Shoujo Madoka★Magica",
+    "Ratings": 8.38,
+    "Genres": "Psychological, Drama, Magic, Thriller",
+    "Type": "TV",
+    "Episodes": 12,
+    "Members": 971621
+  },
+  {
+    "anime_id": 14719,
+    "Name": "JoJo no Kimyou na Bouken (TV)",
+    "Ratings": 8.06,
+    "Genres": "Action, Adventure, Supernatural, Vampire, Shounen",
+    "Type": "TV",
+    "Episodes": 26,
+    "Members": 965386
+  },
+  {
+    "anime_id": 14741,
+    "Name": "Chuunibyou demo Koi ga Shitai!",
+    "Ratings": 7.77,
+    "Genres": "Slice of Life, Comedy, Drama, Romance, School",
+    "Type": "TV",
+    "Episodes": 12,
+    "Members": 955524
+  },
+  {
+    "anime_id": 38408,
+    "Name": "Boku no Hero Academia 4th Season",
+    "Ratings": 8.06,
+    "Genres": "Action, Comedy, Super Power, School, Shounen",
+    "Type": "TV",
+    "Episodes": 25,
+    "Members": 952836
+  },
+  {
+    "anime_id": 10793,
+    "Name": "Guilty Crown",
+    "Ratings": 7.52,
+    "Genres": "Action, Sci-Fi, Super Power, Drama, Romance, Mecha",
+    "Type": "TV",
+    "Episodes": 22,
+    "Members": 950798
+  },
+  {
+    "anime_id": 6880,
+    "Name": "Deadman Wonderland",
+    "Ratings": 7.22,
+    "Genres": "Action, Horror, Sci-Fi, Shounen, Supernatural",
+    "Type": "TV",
+    "Episodes": 12,
+    "Members": 946514
+  },
+  {
+    "anime_id": 38691,
+    "Name": "Dr. Stone",
+    "Ratings": 8.34,
+    "Genres": "Sci-Fi, Adventure, Shounen",
+    "Type": "TV",
+    "Episodes": 24,
+    "Members": 945133
+  },
+  {
+    "anime_id": 12189,
+    "Name": "Hyouka",
+    "Ratings": 8.14,
+    "Genres": "Mystery, School, Slice of Life",
+    "Type": "TV",
+    "Episodes": 22,
+    "Members": 940736
+  },
+  {
+    "anime_id": 37450,
+    "Name": "Seishun Buta Yarou wa Bunny Girl Senpai no Yume wo Minai",
+    "Ratings": 8.38,
+    "Genres": "Comedy, Supernatural, Drama, Romance, School",
+    "Type": "TV",
+    "Episodes": 13,
+    "Members": 940033
+  },
+  {
+    "anime_id": 37999,
+    "Name": "Kaguya-sama wa Kokurasetai: Tensai-tachi no Renai Zunousen",
+    "Ratings": 8.43,
+    "Genres": "Comedy, Psychological, Romance, School, Seinen",
+    "Type": "TV",
+    "Episodes": 12,
+    "Members": 925543
+  },
+  {
+    "anime_id": 13759,
+    "Name": "Sakura-sou no Pet na Kanojo",
+    "Ratings": 8.19,
+    "Genres": "Slice of Life, Comedy, Drama, Romance, School",
+    "Type": "TV",
+    "Episodes": 24,
+    "Members": 920871
+  },
+  {
+    "anime_id": 4181,
+    "Name": "Clannad: After Story",
+    "Ratings": 8.96,
+    "Genres": "Slice of Life, Comedy, Supernatural, Drama, Romance",
+    "Type": "TV",
+    "Episodes": 24,
+    "Members": 915885
+  },
+  {
+    "anime_id": 35790,
+    "Name": "Tate no Yuusha no Nariagari",
+    "Ratings": 8,
+    "Genres": "Action, Adventure, Drama, Fantasy",
+    "Type": "TV",
+    "Episodes": 25,
+    "Members": 907714
+  },
+  {
+    "anime_id": 30654,
+    "Name": "Ansatsu Kyoushitsu 2nd Season",
+    "Ratings": 8.54,
+    "Genres": "Action, Comedy, School, Shounen",
+    "Type": "TV",
+    "Episodes": 25,
+    "Members": 899476
+  },
+  {
+    "anime_id": 205,
+    "Name": "Samurai Champloo",
+    "Ratings": 8.5,
+    "Genres": "Action, Adventure, Comedy, Historical, Samurai, Shounen",
+    "Type": "TV",
+    "Episodes": 26,
+    "Members": 892196
+  },
+  {
+    "anime_id": 813,
+    "Name": "Dragon Ball Z",
+    "Ratings": 8.16,
+    "Genres": "Action, Adventure, Comedy, Fantasy, Martial Arts, Shounen, Super Power",
+    "Type": "TV",
+    "Episodes": 291,
+    "Members": 888982
+  },
+  {
+    "anime_id": 26243,
+    "Name": "Owari no Seraph",
+    "Ratings": 7.49,
+    "Genres": "Action, Military, Supernatural, Drama, Vampire, Shounen",
+    "Type": "TV",
+    "Episodes": 12,
+    "Members": 888227
+  },
+  {
+    "anime_id": 7054,
+    "Name": "Kaichou wa Maid-sama!",
+    "Ratings": 8.06,
+    "Genres": "Comedy, Romance, School, Shoujo",
+    "Type": "TV",
+    "Episodes": 26,
+    "Members": 883462
+  },
+  {
+    "anime_id": 164,
+    "Name": "Mononoke Hime",
+    "Ratings": 8.72,
+    "Genres": "Action, Adventure, Fantasy",
+    "Type": "Movie",
+    "Episodes": 1,
+    "Members": 876813
+  },
+  {
+    "anime_id": 4898,
+    "Name": "Kuroshitsuji",
+    "Ratings": 7.75,
+    "Genres": "Action, Mystery, Comedy, Historical, Demons, Supernatural, Shounen",
+    "Type": "TV",
+    "Episodes": 24,
+    "Members": 875100
+  },
+  {
+    "anime_id": 28891,
+    "Name": "Haikyuu!! Second Season",
+    "Ratings": 8.73,
+    "Genres": "Comedy, Sports, Drama, School, Shounen",
+    "Type": "TV",
+    "Episodes": 25,
+    "Members": 874150
+  },
+  {
+    "anime_id": 17265,
+    "Name": "Log Horizon",
+    "Ratings": 8,
+    "Genres": "Action, Game, Adventure, Magic, Fantasy",
+    "Type": "TV",
+    "Episodes": 25,
+    "Members": 872925
+  },
+  {
+    "anime_id": 34599,
+    "Name": "Made in Abyss",
+    "Ratings": 8.74,
+    "Genres": "Sci-Fi, Adventure, Mystery, Drama, Fantasy",
+    "Type": "TV",
+    "Episodes": 13,
+    "Members": 862410
+  },
+  {
+    "anime_id": 34572,
+    "Name": "Black Clover",
+    "Ratings": 7.38,
+    "Genres": "Action, Comedy, Magic, Fantasy, Shounen",
+    "Type": "TV",
+    "Episodes": 170,
+    "Members": 860404
+  },
+  {
+    "anime_id": 18897,
+    "Name": "Nisekoi",
+    "Ratings": 7.65,
+    "Genres": "Harem, Comedy, Romance, School, Shounen",
+    "Type": "TV",
+    "Episodes": 20,
+    "Members": 857824
+  },
+  {
+    "anime_id": 18153,
+    "Name": "Kyoukai no Kanata",
+    "Ratings": 7.78,
+    "Genres": "Slice of Life, Supernatural, Fantasy",
+    "Type": "TV",
+    "Episodes": 12,
+    "Members": 848484
+  },
+  {
+    "anime_id": 431,
+    "Name": "Howl no Ugoku Shiro",
+    "Ratings": 8.67,
+    "Genres": "Adventure, Drama, Fantasy, Romance",
+    "Type": "Movie",
+    "Episodes": 1,
+    "Members": 847414
+  },
+  {
+    "anime_id": 34933,
+    "Name": "Kakegurui",
+    "Ratings": 7.42,
+    "Genres": "Game, Mystery, Psychological, Drama, School, Shounen",
+    "Type": "TV",
+    "Episodes": 12,
+    "Members": 843908
+  },
+  {
+    "anime_id": 37510,
+    "Name": "Mob Psycho 100 II",
+    "Ratings": 8.84,
+    "Genres": "Action, Slice of Life, Comedy, Supernatural",
+    "Type": "TV",
+    "Episodes": 13,
+    "Members": 835688
+  },
+  {
+    "anime_id": 853,
+    "Name": "Ouran Koukou Host Club",
+    "Ratings": 8.2,
+    "Genres": "Comedy, Harem, Romance, School, Shoujo",
+    "Type": "TV",
+    "Episodes": 26,
+    "Members": 827960
+  },
+  {
+    "anime_id": 23283,
+    "Name": "Zankyou no Terror",
+    "Ratings": 8.12,
+    "Genres": "Mystery, Psychological, Thriller",
+    "Type": "TV",
+    "Episodes": 11,
+    "Members": 822187
+  },
+  {
+    "anime_id": 11771,
+    "Name": "Kuroko no Basket",
+    "Ratings": 8.15,
+    "Genres": "Comedy, School, Shounen, Sports",
+    "Type": "TV",
+    "Episodes": 25,
+    "Members": 810207
+  },
+  {
+    "anime_id": 11741,
+    "Name": "Fate/Zero 2nd Season",
+    "Ratings": 8.59,
+    "Genres": "Action, Supernatural, Magic, Fantasy",
+    "Type": "TV",
+    "Episodes": 12,
+    "Members": 808294
+  },
+  {
+    "anime_id": 32282,
+    "Name": "Shokugeki no Souma: Ni no Sara",
+    "Ratings": 8.21,
+    "Genres": "Ecchi, School, Shounen",
+    "Type": "TV",
+    "Episodes": 13,
+    "Members": 802974
+  },
+  {
+    "anime_id": 31478,
+    "Name": "Bungou Stray Dogs",
+    "Ratings": 7.79,
+    "Genres": "Action, Comedy, Mystery, Seinen, Super Power, Supernatural",
+    "Type": "TV",
+    "Episodes": 12,
+    "Members": 792435
+  },
+  {
+    "anime_id": 5680,
+    "Name": "K-On!",
+    "Ratings": 7.84,
+    "Genres": "Music, Slice of Life, Comedy, School",
+    "Type": "TV",
+    "Episodes": 13,
+    "Members": 776322
+  },
+  {
+    "anime_id": 14513,
+    "Name": "Magi: The Labyrinth of Magic",
+    "Ratings": 8.07,
+    "Genres": "Action, Adventure, Fantasy, Magic, Shounen",
+    "Type": "TV",
+    "Episodes": 25,
+    "Members": 775824
+  },
+  {
+    "anime_id": 33206,
+    "Name": "Kobayashi-san Chi no Maid Dragon",
+    "Ratings": 8.03,
+    "Genres": "Slice of Life, Comedy, Fantasy",
+    "Type": "TV",
+    "Episodes": 13,
+    "Members": 772246
+  },
+  {
+    "anime_id": 14227,
+    "Name": "Tonari no Kaibutsu-kun",
+    "Ratings": 7.55,
+    "Genres": "Slice of Life, Comedy, Romance, School, Shoujo",
+    "Type": "TV",
+    "Episodes": 13,
+    "Members": 762563
+  },
+  {
+    "anime_id": 20785,
+    "Name": "Mahouka Koukou no Rettousei",
+    "Ratings": 7.53,
+    "Genres": "Action, Sci-Fi, Supernatural, Magic, Romance, School",
+    "Type": "TV",
+    "Episodes": 26,
+    "Members": 760749
+  },
+  {
+    "anime_id": 2025,
+    "Name": "Darker than Black: Kuro no Keiyakusha",
+    "Ratings": 8.12,
+    "Genres": "Action, Sci-Fi, Mystery, Super Power",
+    "Type": "TV",
+    "Episodes": 25,
+    "Members": 759790
+  },
+  {
+    "anime_id": 34577,
+    "Name": "Nanatsu no Taizai: Imashime no Fukkatsu",
+    "Ratings": 7.84,
+    "Genres": "Action, Adventure, Fantasy, Magic, Shounen, Supernatural",
+    "Type": "TV",
+    "Episodes": 24,
+    "Members": 757404
+  },
+  {
+    "anime_id": 918,
+    "Name": "Gintama",
+    "Ratings": 8.96,
+    "Genres": "Action, Comedy, Historical, Parody, Samurai, Sci-Fi, Shounen",
+    "Type": "TV",
+    "Episodes": 201,
+    "Members": 754607
+  },
+  {
+    "anime_id": 37430,
+    "Name": "Tensei shitara Slime Datta Ken",
+    "Ratings": 8.07,
+    "Genres": "Fantasy, Shounen",
+    "Type": "TV",
+    "Episodes": 24,
+    "Members": 747190
+  },
+  {
+    "anime_id": 849,
+    "Name": "Suzumiya Haruhi no Yuuutsu",
+    "Ratings": 7.88,
+    "Genres": "Comedy, Mystery, Parody, School, Sci-Fi, Slice of Life",
+    "Type": "TV",
+    "Episodes": 14,
+    "Members": 745062
+  },
+  {
+    "anime_id": 22297,
+    "Name": "Fate/stay night: Unlimited Blade Works",
+    "Ratings": 8.22,
+    "Genres": "Action, Fantasy, Magic, Supernatural",
+    "Type": "TV",
+    "Episodes": 12,
+    "Members": 742718
+  },
+  {
+    "anime_id": 223,
+    "Name": "Dragon Ball",
+    "Ratings": 8,
+    "Genres": "Adventure, Comedy, Fantasy, Martial Arts, Shounen, Super Power",
+    "Type": "TV",
+    "Episodes": 153,
+    "Members": 735546
+  },
+  {
+    "anime_id": 40028,
+    "Name": "Shingeki no Kyojin: The Final Season",
+    "Ratings": 9.17,
+    "Genres": "Action, Military, Mystery, Super Power, Drama, Fantasy, Shounen",
+    "Type": "TV",
+    "Episodes": 16,
+    "Members": 733260
+  },
+  {
+    "anime_id": 356,
+    "Name": "Fate/stay night",
+    "Ratings": 7.34,
+    "Genres": "Action, Supernatural, Magic, Romance, Fantasy",
+    "Type": "TV",
+    "Episodes": 24,
+    "Members": 730980
+  },
+  {
+    "anime_id": 32935,
+    "Name": "Haikyuu!!: Karasuno Koukou vs. Shiratorizawa Gakuen Koukou",
+    "Ratings": 8.87,
+    "Genres": "Comedy, Sports, Drama, School, Shounen",
+    "Type": "TV",
+    "Episodes": 10,
+    "Members": 727240
+  },
+  {
+    "anime_id": 15583,
+    "Name": "Date A Live",
+    "Ratings": 7.22,
+    "Genres": "Sci-Fi, Harem, Comedy, Romance, Mecha, School",
+    "Type": "TV",
+    "Episodes": 12,
+    "Members": 725237
+  },
+  {
+    "anime_id": 523,
+    "Name": "Tonari no Totoro",
+    "Ratings": 8.31,
+    "Genres": "Adventure, Comedy, Supernatural",
+    "Type": "Movie",
+    "Episodes": 1,
+    "Members": 721786
+  },
+  {
+    "anime_id": 30015,
+    "Name": "ReLIFE",
+    "Ratings": 8.03,
+    "Genres": "Slice of Life, Romance, School",
+    "Type": "TV",
+    "Episodes": 13,
+    "Members": 717580
+  },
+  {
+    "anime_id": 22043,
+    "Name": "Fairy Tail (2014)",
+    "Ratings": 7.73,
+    "Genres": "Action, Adventure, Comedy, Fantasy, Magic, Shounen",
+    "Type": "TV",
+    "Episodes": 102,
+    "Members": 716382
+  },
+  {
+    "anime_id": 2251,
+    "Name": "Baccano!",
+    "Ratings": 8.42,
+    "Genres": "Action, Comedy, Historical, Mystery, Supernatural",
+    "Type": "TV",
+    "Episodes": 13,
+    "Members": 714937
+  },
+  {
+    "anime_id": 23847,
+    "Name": "Yahari Ore no Seishun Love Comedy wa Machigatteiru. Zoku",
+    "Ratings": 8.27,
+    "Genres": "Slice of Life, Comedy, Drama, Romance, School",
+    "Type": "TV",
+    "Episodes": 13,
+    "Members": 713318
+  },
+  {
+    "anime_id": 38671,
+    "Name": "Enen no Shouboutai",
+    "Ratings": 7.68,
+    "Genres": "Action, Supernatural, Shounen",
+    "Type": "TV",
+    "Episodes": 24,
+    "Members": 711770
+  },
+  {
+    "anime_id": 20787,
+    "Name": "Black Bullet",
+    "Ratings": 7.17,
+    "Genres": "Action, Sci-Fi, Mystery, Seinen",
+    "Type": "TV",
+    "Episodes": 13,
+    "Members": 709300
+  },
+  {
+    "anime_id": 40748,
+    "Name": "Jujutsu Kaisen (TV)",
+    "Ratings": 8.54,
+    "Genres": "Action, Demons, Supernatural, School, Shounen",
+    "Type": "TV",
+    "Episodes": 24,
+    "Members": 707976
+  },
+  {
+    "anime_id": 37349,
+    "Name": "Goblin Slayer",
+    "Ratings": 7.46,
+    "Genres": "Action, Adventure, Fantasy",
+    "Type": "TV",
+    "Episodes": 12,
+    "Members": 706484
+  },
+  {
+    "anime_id": 889,
+    "Name": "Black Lagoon",
+    "Ratings": 8.05,
+    "Genres": "Action, Seinen",
+    "Type": "TV",
+    "Episodes": 12,
+    "Members": 704436
+  },
+  {
+    "anime_id": 36511,
+    "Name": "Tokyo Ghoul:re",
+    "Ratings": 6.53,
+    "Genres": "Action, Psychological, Supernatural, Mystery, Drama, Horror, Seinen",
+    "Type": "TV",
+    "Episodes": 12,
+    "Members": 698167
+  },
+  {
+    "anime_id": 30240,
+    "Name": "Prison School",
+    "Ratings": 7.71,
+    "Genres": "Comedy, Ecchi, Romance, School, Seinen",
+    "Type": "TV",
+    "Episodes": 12,
+    "Members": 696018
+  },
+  {
+    "anime_id": 1689,
+    "Name": "Byousoku 5 Centimeter",
+    "Ratings": 7.73,
+    "Genres": "Drama, Romance, Slice of Life",
+    "Type": "Movie",
+    "Episodes": 3,
+    "Members": 695375
+  },
+  {
+    "anime_id": 20899,
+    "Name": "JoJo no Kimyou na Bouken Part 3: Stardust Crusaders",
+    "Ratings": 8.12,
+    "Genres": "Action, Adventure, Supernatural, Drama, Shounen",
+    "Type": "TV",
+    "Episodes": 24,
+    "Members": 694803
+  },
+  {
+    "anime_id": 16592,
+    "Name": "Danganronpa: Kibou no Gakuen to Zetsubou no Koukousei The Animation",
+    "Ratings": 7.29,
+    "Genres": "Mystery, Horror, Psychological, School",
+    "Type": "TV",
+    "Episodes": 13,
+    "Members": 689579
+  },
+  {
+    "anime_id": 37520,
+    "Name": "Dororo",
+    "Ratings": 8.19,
+    "Genres": "Action, Adventure, Demons, Historical, Samurai, Shounen, Supernatural",
+    "Type": "TV",
+    "Episodes": 24,
+    "Members": 688715
+  },
+  {
+    "anime_id": 17895,
+    "Name": "Golden Time",
+    "Ratings": 7.78,
+    "Genres": "Comedy, Drama, Romance",
+    "Type": "TV",
+    "Episodes": 24,
+    "Members": 688649
+  },
+  {
+    "anime_id": 23289,
+    "Name": "Gekkan Shoujo Nozaki-kun",
+    "Ratings": 7.96,
+    "Genres": "Comedy, Romance, School",
+    "Type": "TV",
+    "Episodes": 12,
+    "Members": 681194
+  },
+  {
+    "anime_id": 14345,
+    "Name": "Btooom!",
+    "Ratings": 7.39,
+    "Genres": "Action, Sci-Fi, Psychological, Seinen",
+    "Type": "TV",
+    "Episodes": 12,
+    "Members": 678842
+  },
+  {
+    "anime_id": 777,
+    "Name": "Hellsing Ultimate",
+    "Ratings": 8.4,
+    "Genres": "Action, Military, Horror, Supernatural, Vampire, Seinen",
+    "Type": "OVA",
+    "Episodes": 10,
+    "Members": 676023
+  },
+  {
+    "anime_id": 37521,
+    "Name": "Vinland Saga",
+    "Ratings": 8.71,
+    "Genres": "Action, Adventure, Drama, Historical, Seinen",
+    "Type": "TV",
+    "Episodes": 24,
+    "Members": 671949
+  },
+  {
+    "anime_id": 15451,
+    "Name": "High School DxD New",
+    "Ratings": 7.54,
+    "Genres": "Action, Harem, Comedy, Demons, Romance, Ecchi, School",
+    "Type": "TV",
+    "Episodes": 12,
+    "Members": 668482
+  },
+  {
+    "anime_id": 35788,
+    "Name": "Shokugeki no Souma: San no Sara",
+    "Ratings": 8.14,
+    "Genres": "Ecchi, School, Shounen",
+    "Type": "TV",
+    "Episodes": 12,
+    "Members": 659490
+  },
+  {
+    "anime_id": 40591,
+    "Name": "Kaguya-sama wa Kokurasetai?: Tensai-tachi no Renai Zunousen",
+    "Ratings": 8.74,
+    "Genres": "Comedy, Psychological, Romance, School, Seinen",
+    "Type": "TV",
+    "Episodes": 12,
+    "Members": 654744
+  },
+  {
+    "anime_id": 36474,
+    "Name": "Sword Art Online: Alicization",
+    "Ratings": 7.57,
+    "Genres": "Action, Game, Adventure, Romance, Fantasy",
+    "Type": "TV",
+    "Episodes": 24,
+    "Members": 651688
+  },
+  {
+    "anime_id": 1195,
+    "Name": "Zero no Tsukaima",
+    "Ratings": 7.33,
+    "Genres": "Action, Adventure, Harem, Comedy, Magic, Romance, Ecchi, Fantasy, School",
+    "Type": "TV",
+    "Episodes": 13,
+    "Members": 651195
+  },
+  {
+    "anime_id": 35120,
+    "Name": "Devilman: Crybaby",
+    "Ratings": 7.84,
+    "Genres": "Action, Dementia, Demons, Horror, Supernatural",
+    "Type": "ONA",
+    "Episodes": 10,
+    "Members": 650309
+  },
+  {
+    "anime_id": 6045,
+    "Name": "Kimi ni Todoke",
+    "Ratings": 8.02,
+    "Genres": "Slice of Life, Drama, Romance, School, Shoujo",
+    "Type": "TV",
+    "Episodes": 25,
+    "Members": 648101
+  },
+  {
+    "anime_id": 10165,
+    "Name": "Nichijou",
+    "Ratings": 8.48,
+    "Genres": "Slice of Life, Comedy, School, Shounen",
+    "Type": "TV",
+    "Episodes": 26,
+    "Members": 647924
+  },
+  {
+    "anime_id": 35073,
+    "Name": "Overlord II",
+    "Ratings": 7.78,
+    "Genres": "Action, Game, Adventure, Supernatural, Magic, Fantasy",
+    "Type": "TV",
+    "Episodes": 13,
+    "Members": 646042
+  },
+  {
+    "anime_id": 30296,
+    "Name": "Rakudai Kishi no Cavalry",
+    "Ratings": 7.53,
+    "Genres": "Action, Romance, Ecchi, Fantasy, School",
+    "Type": "TV",
+    "Episodes": 12,
+    "Members": 644218
+  },
+  {
+    "anime_id": 27775,
+    "Name": "Plastic Memories",
+    "Ratings": 7.94,
+    "Genres": "Sci-Fi, Drama, Romance",
+    "Type": "TV",
+    "Episodes": 13,
+    "Members": 643043
+  },
+  {
+    "anime_id": 2966,
+    "Name": "Ookami to Koushinryou",
+    "Ratings": 8.27,
+    "Genres": "Adventure, Fantasy, Historical, Romance",
+    "Type": "TV",
+    "Episodes": 13,
+    "Members": 641448
+  },
+  {
+    "anime_id": 26055,
+    "Name": "JoJo no Kimyou na Bouken Part 3: Stardust Crusaders 2nd Season",
+    "Ratings": 8.45,
+    "Genres": "Action, Adventure, Supernatural, Drama, Shounen",
+    "Type": "TV",
+    "Episodes": 24,
+    "Members": 641298
+  },
+  {
+    "anime_id": 18115,
+    "Name": "Magi: The Kingdom of Magic",
+    "Ratings": 8.28,
+    "Genres": "Action, Adventure, Magic, Fantasy, Shounen",
+    "Type": "TV",
+    "Episodes": 25,
+    "Members": 639860
+  },
+  {
+    "anime_id": 934,
+    "Name": "Higurashi no Naku Koro ni",
+    "Ratings": 7.95,
+    "Genres": "Mystery, Dementia, Horror, Psychological, Supernatural, Thriller",
+    "Type": "TV",
+    "Episodes": 26,
+    "Members": 638491
+  },
+  {
+    "anime_id": 10719,
+    "Name": "Boku wa Tomodachi ga Sukunai",
+    "Ratings": 7.27,
+    "Genres": "Ecchi, Slice of Life, Comedy, Harem, Romance, School",
+    "Type": "TV",
+    "Episodes": 12,
+    "Members": 637856
+  },
+  {
+    "anime_id": 4654,
+    "Name": "Toaru Majutsu no Index",
+    "Ratings": 7.44,
+    "Genres": "Action, Magic, Sci-Fi, Super Power",
+    "Type": "TV",
+    "Episodes": 24,
+    "Members": 635900
+  },
+  {
+    "anime_id": 11887,
+    "Name": "Kokoro Connect",
+    "Ratings": 7.82,
+    "Genres": "Slice of Life, Comedy, Supernatural, Drama, Romance, School",
+    "Type": "TV",
+    "Episodes": 13,
+    "Members": 632426
+  },
+  {
+    "anime_id": 24439,
+    "Name": "Kekkai Sensen",
+    "Ratings": 7.65,
+    "Genres": "Action, Comedy, Super Power, Supernatural, Vampire, Fantasy, Shounen",
+    "Type": "TV",
+    "Episodes": 12,
+    "Members": 625476
+  },
+  {
+    "anime_id": 31933,
+    "Name": "JoJo no Kimyou na Bouken Part 4: Diamond wa Kudakenai",
+    "Ratings": 8.51,
+    "Genres": "Action, Adventure, Comedy, Supernatural, Drama, Shounen",
+    "Type": "TV",
+    "Episodes": 39,
+    "Members": 625022
+  },
+  {
+    "anime_id": 35062,
+    "Name": "Mahoutsukai no Yome",
+    "Ratings": 8.1,
+    "Genres": "Slice of Life, Magic, Fantasy, Shounen",
+    "Type": "TV",
+    "Episodes": 24,
+    "Members": 622300
+  },
+  {
+    "anime_id": 457,
+    "Name": "Mushishi",
+    "Ratings": 8.69,
+    "Genres": "Adventure, Slice of Life, Mystery, Historical, Supernatural, Fantasy, Seinen",
+    "Type": "TV",
+    "Episodes": 26,
+    "Members": 620736
+  },
+  {
+    "anime_id": 2236,
+    "Name": "Toki wo Kakeru Shoujo",
+    "Ratings": 8.2,
+    "Genres": "Adventure, Drama, Romance, Sci-Fi",
+    "Type": "Movie",
+    "Episodes": 1,
+    "Members": 619843
+  },
+  {
+    "anime_id": 13125,
+    "Name": "Shinsekai yori",
+    "Ratings": 8.35,
+    "Genres": "Drama, Horror, Mystery, Psychological, Sci-Fi, Supernatural",
+    "Type": "TV",
+    "Episodes": 25,
+    "Members": 619318
+  },
+  {
+    "anime_id": 12355,
+    "Name": "Ookami Kodomo no Ame to Yuki",
+    "Ratings": 8.64,
+    "Genres": "Fantasy, Slice of Life",
+    "Type": "Movie",
+    "Episodes": 1,
+    "Members": 616049
+  },
+  {
+    "anime_id": 39587,
+    "Name": "Re:Zero kara Hajimeru Isekai Seikatsu 2nd Season",
+    "Ratings": 8.5,
+    "Genres": "Psychological, Drama, Thriller, Fantasy",
+    "Type": "TV",
+    "Episodes": 13,
+    "Members": 614588
+  },
+  {
+    "anime_id": 19,
+    "Name": "Monster",
+    "Ratings": 8.76,
+    "Genres": "Drama, Horror, Mystery, Police, Psychological, Seinen, Thriller",
+    "Type": "TV",
+    "Episodes": 74,
+    "Members": 614100
+  },
+  {
+    "anime_id": 227,
+    "Name": "FLCL",
+    "Ratings": 8.03,
+    "Genres": "Action, Sci-Fi, Comedy, Parody, Dementia, Psychological, Mecha",
+    "Type": "OVA",
+    "Episodes": 6,
+    "Members": 610114
+  },
+  {
+    "anime_id": 33674,
+    "Name": "No Game No Life: Zero",
+    "Ratings": 8.32,
+    "Genres": "Game, Supernatural, Drama, Romance, Fantasy",
+    "Type": "Movie",
+    "Episodes": 1,
+    "Members": 608820
+  },
+  {
+    "anime_id": 28701,
+    "Name": "Fate/stay night: Unlimited Blade Works 2nd Season",
+    "Ratings": 8.33,
+    "Genres": "Action, Fantasy, Magic, Supernatural",
+    "Type": "TV",
+    "Episodes": 13,
+    "Members": 605173
+  },
+  {
+    "anime_id": 25157,
+    "Name": "Trinity Seven",
+    "Ratings": 7.17,
+    "Genres": "Action, Harem, Comedy, Supernatural, Magic, Romance, Ecchi, Fantasy, School, Shounen",
+    "Type": "TV",
+    "Episodes": 12,
+    "Members": 602856
+  },
+  {
+    "anime_id": 28907,
+    "Name": "Gate: Jieitai Kanochi nite, Kaku Tatakaeri",
+    "Ratings": 7.74,
+    "Genres": "Action, Adventure, Fantasy, Military",
+    "Type": "TV",
+    "Episodes": 12,
+    "Members": 601037
+  },
+  {
+    "anime_id": 32615,
+    "Name": "Youjo Senki",
+    "Ratings": 8,
+    "Genres": "Action, Military, Magic",
+    "Type": "TV",
+    "Episodes": 12,
+    "Members": 600880
+  },
+  {
+    "anime_id": 11759,
+    "Name": "Accel World",
+    "Ratings": 7.32,
+    "Genres": "Action, Game, Sci-Fi, Romance, School",
+    "Type": "TV",
+    "Episodes": 24,
+    "Members": 598685
+  },
+  {
+    "anime_id": 14467,
+    "Name": "K",
+    "Ratings": 7.51,
+    "Genres": "Action, Mystery, Super Power, Supernatural",
+    "Type": "TV",
+    "Episodes": 13,
+    "Members": 597674
+  },
+  {
+    "anime_id": 11843,
+    "Name": "Danshi Koukousei no Nichijou",
+    "Ratings": 8.28,
+    "Genres": "Slice of Life, Comedy, School",
+    "Type": "TV",
+    "Episodes": 12,
+    "Members": 593890
+  },
+  {
+    "anime_id": 28623,
+    "Name": "Koutetsujou no Kabaneri",
+    "Ratings": 7.26,
+    "Genres": "Action, Horror, Supernatural, Drama, Fantasy",
+    "Type": "TV",
+    "Episodes": 12,
+    "Members": 592987
+  },
+  {
+    "anime_id": 21995,
+    "Name": "Ao Haru Ride",
+    "Ratings": 7.67,
+    "Genres": "Comedy, Drama, Romance, School, Shoujo, Slice of Life",
+    "Type": "TV",
+    "Episodes": 12,
+    "Members": 591908
+  },
+  {
+    "anime_id": 33255,
+    "Name": "Saiki Kusuo no Ψ-nan",
+    "Ratings": 8.45,
+    "Genres": "Comedy, School, Shounen, Slice of Life, Supernatural",
+    "Type": "TV",
+    "Episodes": 120,
+    "Members": 591140
+  },
+  {
+    "anime_id": 30484,
+    "Name": "Steins;Gate 0",
+    "Ratings": 8.51,
+    "Genres": "Sci-Fi, Thriller",
+    "Type": "TV",
+    "Episodes": 23,
+    "Members": 590847
+  },
+  {
+    "anime_id": 245,
+    "Name": "Great Teacher Onizuka",
+    "Ratings": 8.7,
+    "Genres": "Slice of Life, Comedy, Drama, School, Shounen",
+    "Type": "TV",
+    "Episodes": 43,
+    "Members": 589324
+  },
+  {
+    "anime_id": 249,
+    "Name": "InuYasha",
+    "Ratings": 7.85,
+    "Genres": "Action, Adventure, Comedy, Historical, Demons, Supernatural, Magic, Romance, Fantasy, Shounen",
+    "Type": "TV",
+    "Episodes": 167,
+    "Members": 588434
+  },
+  {
+    "anime_id": 16894,
+    "Name": "Kuroko no Basket 2nd Season",
+    "Ratings": 8.28,
+    "Genres": "Comedy, Sports, School, Shounen",
+    "Type": "TV",
+    "Episodes": 25,
+    "Members": 588404
+  },
+  {
+    "anime_id": 25013,
+    "Name": "Akatsuki no Yona",
+    "Ratings": 8.05,
+    "Genres": "Action, Adventure, Comedy, Fantasy, Romance, Shoujo",
+    "Type": "TV",
+    "Episodes": 24,
+    "Members": 586957
+  },
+  {
+    "anime_id": 18507,
+    "Name": "Free!",
+    "Ratings": 7.39,
+    "Genres": "Slice of Life, Comedy, Sports, Drama, School",
+    "Type": "TV",
+    "Episodes": 12,
+    "Members": 585161
+  },
+  {
+    "anime_id": 32995,
+    "Name": "Yuri!!! on Ice",
+    "Ratings": 7.92,
+    "Genres": "Comedy, Sports",
+    "Type": "TV",
+    "Episodes": 12,
+    "Members": 580801
+  },
+  {
+    "anime_id": 35507,
+    "Name": "Youkoso Jitsuryoku Shijou Shugi no Kyoushitsu e (TV)",
+    "Ratings": 7.85,
+    "Genres": "Slice of Life, Psychological, Drama, School",
+    "Type": "TV",
+    "Episodes": 12,
+    "Members": 577290
+  },
+  {
+    "anime_id": 16782,
+    "Name": "Kotonoha no Niwa",
+    "Ratings": 8.05,
+    "Genres": "Slice of Life, Psychological, Drama, Romance",
+    "Type": "Movie",
+    "Episodes": 1,
+    "Members": 574997
+  },
+  {
+    "anime_id": 11597,
+    "Name": "Nisemonogatari",
+    "Ratings": 8.18,
+    "Genres": "Mystery, Comedy, Supernatural, Ecchi",
+    "Type": "TV",
+    "Episodes": 11,
+    "Members": 572431
+  },
+  {
+    "anime_id": 32,
+    "Name": "Neon Genesis Evangelion: The End of Evangelion",
+    "Ratings": 8.51,
+    "Genres": "Sci-Fi, Dementia, Psychological, Drama, Mecha",
+    "Type": "Movie",
+    "Episodes": 1,
+    "Members": 572080
+  },
+  {
+    "anime_id": 24703,
+    "Name": "High School DxD BorN",
+    "Ratings": 7.45,
+    "Genres": "Action, Comedy, Demons, Ecchi, Harem, Romance, School",
+    "Type": "TV",
+    "Episodes": 12,
+    "Members": 571266
+  },
+  {
+    "anime_id": 10408,
+    "Name": "Hotarubi no Mori e",
+    "Ratings": 8.38,
+    "Genres": "Drama, Romance, Shoujo, Supernatural",
+    "Type": "Movie",
+    "Episodes": 1,
+    "Members": 567617
+  },
+  {
+    "anime_id": 1482,
+    "Name": "D.Gray-man",
+    "Ratings": 8.05,
+    "Genres": "Action, Adventure, Comedy, Super Power, Demons, Shounen",
+    "Type": "TV",
+    "Episodes": 103,
+    "Members": 567566
+  },
+  {
+    "anime_id": 47,
+    "Name": "Akira",
+    "Ratings": 8.17,
+    "Genres": "Action, Military, Sci-Fi, Adventure, Horror, Supernatural, Seinen",
+    "Type": "Movie",
+    "Episodes": 1,
+    "Members": 566538
+  },
+  {
+    "anime_id": 8769,
+    "Name": "Ore no Imouto ga Konnani Kawaii Wake ga Nai",
+    "Ratings": 7.1,
+    "Genres": "Slice of Life, Comedy",
+    "Type": "TV",
+    "Episodes": 12,
+    "Members": 565710
+  },
+  {
+    "anime_id": 28677,
+    "Name": "Yamada-kun to 7-nin no Majo (TV)",
+    "Ratings": 7.65,
+    "Genres": "Harem, Mystery, Comedy, Supernatural, Romance, School, Shounen",
+    "Type": "TV",
+    "Episodes": 12,
+    "Members": 564446
+  },
+  {
+    "anime_id": 6,
+    "Name": "Trigun",
+    "Ratings": 8.24,
+    "Genres": "Action, Sci-Fi, Adventure, Comedy, Drama, Shounen",
+    "Type": "TV",
+    "Episodes": 26,
+    "Members": 558913
+  },
+  {
+    "anime_id": 29786,
+    "Name": "Shimoneta to Iu Gainen ga Sonzai Shinai Taikutsu na Sekai",
+    "Ratings": 7.33,
+    "Genres": "Comedy, Ecchi, School",
+    "Type": "TV",
+    "Episodes": 12,
+    "Members": 557478
+  },
+  {
+    "anime_id": 1210,
+    "Name": "NHK ni Youkoso!",
+    "Ratings": 8.33,
+    "Genres": "Comedy, Psychological, Drama, Romance",
+    "Type": "TV",
+    "Episodes": 24,
+    "Members": 550365
+  },
+  {
+    "anime_id": 270,
+    "Name": "Hellsing",
+    "Ratings": 7.5,
+    "Genres": "Action, Horror, Supernatural, Vampire, Seinen",
+    "Type": "TV",
+    "Episodes": 13,
+    "Members": 549632
+  },
+  {
+    "anime_id": 37675,
+    "Name": "Overlord III",
+    "Ratings": 7.95,
+    "Genres": "Action, Magic, Fantasy, Game, Supernatural",
+    "Type": "TV",
+    "Episodes": 13,
+    "Members": 549484
+  },
+  {
+    "anime_id": 33487,
+    "Name": "Masamune-kun no Revenge",
+    "Ratings": 6.83,
+    "Genres": "Comedy, Harem, Romance, School, Shounen",
+    "Type": "TV",
+    "Episodes": 12,
+    "Members": 547027
+  },
+  {
+    "anime_id": 2993,
+    "Name": "Rosario to Vampire",
+    "Ratings": 6.84,
+    "Genres": "Harem, Comedy, Romance, Ecchi, Vampire, Fantasy, School, Shounen",
+    "Type": "TV",
+    "Episodes": 13,
+    "Members": 545750
+  },
+  {
+    "anime_id": 32729,
+    "Name": "Orange",
+    "Ratings": 7.62,
+    "Genres": "Sci-Fi, Drama, Romance, School, Shoujo",
+    "Type": "TV",
+    "Episodes": 13,
+    "Members": 545748
+  },
+  {
+    "anime_id": 1818,
+    "Name": "Claymore",
+    "Ratings": 7.78,
+    "Genres": "Action, Adventure, Super Power, Demons, Supernatural, Fantasy, Shounen",
+    "Type": "TV",
+    "Episodes": 26,
+    "Members": 544135
+  },
+  {
+    "anime_id": 37991,
+    "Name": "JoJo no Kimyou na Bouken Part 5: Ougon no Kaze",
+    "Ratings": 8.61,
+    "Genres": "Action, Adventure, Shounen",
+    "Type": "TV",
+    "Episodes": 39,
+    "Members": 542642
+  },
+  {
+    "anime_id": 32542,
+    "Name": "Sakamoto Desu ga?",
+    "Ratings": 7.59,
+    "Genres": "Slice of Life, Comedy, School, Seinen",
+    "Type": "TV",
+    "Episodes": 12,
+    "Members": 541911
+  },
+  {
+    "anime_id": 31798,
+    "Name": "Kiznaiver",
+    "Ratings": 7.43,
+    "Genres": "Sci-Fi, Drama, Romance",
+    "Type": "TV",
+    "Episodes": 12,
+    "Members": 540306
+  },
+  {
+    "anime_id": 30307,
+    "Name": "Monster Musume no Iru Nichijou",
+    "Ratings": 7.08,
+    "Genres": "Harem, Comedy, Romance, Ecchi, Fantasy, Seinen",
+    "Type": "TV",
+    "Episodes": 12,
+    "Members": 539332
+  },
+  {
+    "anime_id": 31859,
+    "Name": "Hai to Gensou no Grimgar",
+    "Ratings": 7.69,
+    "Genres": "Action, Adventure, Drama, Fantasy",
+    "Type": "TV",
+    "Episodes": 12,
+    "Members": 537777
+  },
+  {
+    "anime_id": 28927,
+    "Name": "Owari no Seraph: Nagoya Kessen-hen",
+    "Ratings": 7.64,
+    "Genres": "Action, Military, Supernatural, Drama, Vampire, Shounen",
+    "Type": "TV",
+    "Episodes": 12,
+    "Members": 537525
+  },
+  {
+    "anime_id": 30694,
+    "Name": "Dragon Ball Super",
+    "Ratings": 7.42,
+    "Genres": "Action, Adventure, Comedy, Super Power, Martial Arts, Fantasy, Shounen",
+    "Type": "TV",
+    "Episodes": 131,
+    "Members": 536891
+  },
+  {
+    "anime_id": 11633,
+    "Name": "Blood Lad",
+    "Ratings": 7.33,
+    "Genres": "Action, Comedy, Demons, Seinen, Supernatural, Vampire",
+    "Type": "TV",
+    "Episodes": 10,
+    "Members": 535363
+  },
+  {
+    "anime_id": 40221,
+    "Name": "Kami no Tou",
+    "Ratings": 7.66,
+    "Genres": "Action, Adventure, Mystery, Drama, Fantasy",
+    "Type": "TV",
+    "Episodes": 13,
+    "Members": 534804
+  },
+  {
+    "anime_id": 1887,
+    "Name": "Lucky☆Star",
+    "Ratings": 7.77,
+    "Genres": "Slice of Life, Comedy, Parody, School",
+    "Type": "TV",
+    "Episodes": 24,
+    "Members": 532794
+  },
+  {
+    "anime_id": 6347,
+    "Name": "Baka to Test to Shoukanjuu",
+    "Ratings": 7.6,
+    "Genres": "Comedy, Romance, School, Super Power",
+    "Type": "TV",
+    "Episodes": 13,
+    "Members": 529741
+  },
+  {
+    "anime_id": 34566,
+    "Name": "Boruto: Naruto Next Generations",
+    "Ratings": 5.81,
+    "Genres": "Action, Adventure, Super Power, Martial Arts, Shounen",
+    "Type": "TV",
+    "Episodes": "Unknown",
+    "Members": 529732
+  },
+  {
+    "anime_id": 35968,
+    "Name": "Wotaku ni Koi wa Muzukashii",
+    "Ratings": 7.96,
+    "Genres": "Comedy, Romance, Slice of Life",
+    "Type": "TV",
+    "Episodes": 11,
+    "Members": 528912
+  },
+  {
+    "anime_id": 33506,
+    "Name": "Ao no Exorcist: Kyoto Fujouou-hen",
+    "Ratings": 7.43,
+    "Genres": "Action, Demons, Supernatural, Fantasy, Shounen",
+    "Type": "TV",
+    "Episodes": 12,
+    "Members": 527247
+  },
+  {
+    "anime_id": 8841,
+    "Name": "Kore wa Zombie Desu ka?",
+    "Ratings": 7.43,
+    "Genres": "Action, Comedy, Ecchi, Harem, Magic, Supernatural",
+    "Type": "TV",
+    "Episodes": 12,
+    "Members": 526740
+  },
+  {
+    "anime_id": 18671,
+    "Name": "Chuunibyou demo Koi ga Shitai! Ren",
+    "Ratings": 7.56,
+    "Genres": "Comedy, Drama, Romance, School, Slice of Life",
+    "Type": "TV",
+    "Episodes": 12,
+    "Members": 522620
+  },
+  {
+    "anime_id": 2476,
+    "Name": "School Days",
+    "Ratings": 5.68,
+    "Genres": "Harem, Drama, Romance, School",
+    "Type": "TV",
+    "Episodes": 12,
+    "Members": 522307
+  },
+  {
+    "anime_id": 32901,
+    "Name": "Eromanga-sensei",
+    "Ratings": 6.49,
+    "Genres": "Comedy, Drama, Romance, Ecchi",
+    "Type": "TV",
+    "Episodes": 12,
+    "Members": 513293
+  },
+  {
+    "anime_id": 8525,
+    "Name": "Kami nomi zo Shiru Sekai",
+    "Ratings": 7.73,
+    "Genres": "Comedy, Harem, Romance, Shounen, Supernatural",
+    "Type": "TV",
+    "Episodes": 12,
+    "Members": 510719
+  },
+  {
+    "anime_id": 16742,
+    "Name": "Watashi ga Motenai no wa Dou Kangaetemo Omaera ga Warui!",
+    "Ratings": 7.04,
+    "Genres": "Slice of Life, Comedy, School",
+    "Type": "TV",
+    "Episodes": 12,
+    "Members": 510608
+  },
+  {
+    "anime_id": 7791,
+    "Name": "K-On!!",
+    "Ratings": 8.15,
+    "Genres": "Comedy, Music, School, Slice of Life",
+    "Type": "TV",
+    "Episodes": 26,
+    "Members": 509434
+  },
+  {
+    "anime_id": 17074,
+    "Name": "Monogatari Series: Second Season",
+    "Ratings": 8.78,
+    "Genres": "Mystery, Comedy, Supernatural, Romance, Vampire",
+    "Type": "TV",
+    "Episodes": 26,
+    "Members": 509401
+  },
+  {
+    "anime_id": 31765,
+    "Name": "Sword Art Online Movie: Ordinal Scale",
+    "Ratings": 7.65,
+    "Genres": "Action, Game, Adventure, Romance, Fantasy",
+    "Type": "Movie",
+    "Episodes": 1,
+    "Members": 508865
+  },
+  {
+    "anime_id": 23281,
+    "Name": "Psycho-Pass 2",
+    "Ratings": 7.42,
+    "Genres": "Action, Sci-Fi, Police, Psychological",
+    "Type": "TV",
+    "Episodes": 11,
+    "Members": 508172
+  },
+  {
+    "anime_id": 24415,
+    "Name": "Kuroko no Basket 3rd Season",
+    "Ratings": 8.34,
+    "Genres": "Comedy, Sports, School, Shounen",
+    "Type": "TV",
+    "Episodes": 25,
+    "Members": 506465
+  },
+  {
+    "anime_id": 9041,
+    "Name": "IS: Infinite Stratos",
+    "Ratings": 6.75,
+    "Genres": "Action, Sci-Fi, Harem, Comedy, Ecchi, Mecha",
+    "Type": "TV",
+    "Episodes": 12,
+    "Members": 503818
+  },
+  {
+    "anime_id": 22789,
+    "Name": "Barakamon",
+    "Ratings": 8.41,
+    "Genres": "Comedy, Slice of Life",
+    "Type": "TV",
+    "Episodes": 12,
+    "Members": 503396
+  },
+  {
+    "anime_id": 37347,
+    "Name": "Dungeon ni Deai wo Motomeru no wa Machigatteiru Darou ka II",
+    "Ratings": 7.24,
+    "Genres": "Action, Adventure, Comedy, Romance, Fantasy",
+    "Type": "TV",
+    "Episodes": 12,
+    "Members": 500644
+  },
+  {
+    "anime_id": 27787,
+    "Name": "Nisekoi:",
+    "Ratings": 7.39,
+    "Genres": "Comedy, Harem, Romance, School, Shounen",
+    "Type": "TV",
+    "Episodes": 12,
+    "Members": 500350
+  },
+  {
+    "anime_id": 18277,
+    "Name": "Strike the Blood",
+    "Ratings": 7.14,
+    "Genres": "Action, Harem, Supernatural, Ecchi, Vampire, Fantasy, School",
+    "Type": "TV",
+    "Episodes": 24,
+    "Members": 499734
+  },
+  {
+    "anime_id": 22147,
+    "Name": "Amagi Brilliant Park",
+    "Ratings": 7.52,
+    "Genres": "Comedy, Drama, Fantasy, Magic",
+    "Type": "TV",
+    "Episodes": 13,
+    "Members": 496580
+  },
+  {
+    "anime_id": 28825,
+    "Name": "Himouto! Umaru-chan",
+    "Ratings": 7.17,
+    "Genres": "Comedy, School, Seinen, Slice of Life",
+    "Type": "TV",
+    "Episodes": 12,
+    "Members": 494283
+  },
+  {
+    "anime_id": 7674,
+    "Name": "Bakuman.",
+    "Ratings": 8.23,
+    "Genres": "Comedy, Drama, Romance, Shounen",
+    "Type": "TV",
+    "Episodes": 25,
+    "Members": 490554
+  },
+  {
+    "anime_id": 28497,
+    "Name": "Rokka no Yuusha",
+    "Ratings": 7.35,
+    "Genres": "Action, Adventure, Fantasy, Magic, Mystery",
+    "Type": "TV",
+    "Episodes": 12,
+    "Members": 486940
+  },
+  {
+    "anime_id": 7311,
+    "Name": "Suzumiya Haruhi no Shoushitsu",
+    "Ratings": 8.65,
+    "Genres": "Comedy, Mystery, Romance, School, Sci-Fi, Supernatural",
+    "Type": "Movie",
+    "Episodes": 1,
+    "Members": 486871
+  },
+  {
+    "anime_id": 23321,
+    "Name": "Log Horizon 2nd Season",
+    "Ratings": 7.62,
+    "Genres": "Action, Game, Adventure, Magic, Fantasy",
+    "Type": "TV",
+    "Episodes": 25,
+    "Members": 485345
+  },
+  {
+    "anime_id": 34902,
+    "Name": "Tsurezure Children",
+    "Ratings": 7.67,
+    "Genres": "Comedy, Romance, School, Shounen",
+    "Type": "TV",
+    "Episodes": 12,
+    "Members": 483639
+  },
+  {
+    "anime_id": 3455,
+    "Name": "To LOVE-Ru",
+    "Ratings": 7.07,
+    "Genres": "Sci-Fi, Harem, Comedy, Romance, Ecchi, School, Shounen",
+    "Type": "TV",
+    "Episodes": 26,
+    "Members": 483606
+  },
+  {
+    "anime_id": 39617,
+    "Name": "Yakusoku no Neverland 2nd Season",
+    "Ratings": 7.49,
+    "Genres": "Sci-Fi, Mystery, Psychological, Thriller, Shounen",
+    "Type": "TV",
+    "Episodes": 11,
+    "Members": 482725
+  },
+  {
+    "anime_id": 14075,
+    "Name": "Zetsuen no Tempest",
+    "Ratings": 7.99,
+    "Genres": "Action, Mystery, Psychological, Drama, Magic, Fantasy, Shounen",
+    "Type": "TV",
+    "Episodes": 24,
+    "Members": 482114
+  },
+  {
+    "anime_id": 339,
+    "Name": "Serial Experiments Lain",
+    "Ratings": 8.03,
+    "Genres": "Dementia, Drama, Mystery, Psychological, Sci-Fi, Supernatural",
+    "Type": "TV",
+    "Episodes": 13,
+    "Members": 480696
+  },
+  {
+    "anime_id": 32867,
+    "Name": "Bungou Stray Dogs 2nd Season",
+    "Ratings": 8.2,
+    "Genres": "Action, Mystery, Seinen, Super Power, Supernatural",
+    "Type": "TV",
+    "Episodes": 12,
+    "Members": 480682
+  },
+  {
+    "anime_id": 30544,
+    "Name": "Gakusen Toshi Asterisk",
+    "Ratings": 6.9,
+    "Genres": "Action, Comedy, Ecchi, Fantasy, Harem, Romance, School, Sci-Fi, Supernatural",
+    "Type": "TV",
+    "Episodes": 12,
+    "Members": 480569
+  },
+  {
+    "anime_id": 28297,
+    "Name": "Ore Monogatari!!",
+    "Ratings": 7.96,
+    "Genres": "Comedy, Romance, Shoujo",
+    "Type": "TV",
+    "Episodes": 24,
+    "Members": 480559
+  },
+  {
+    "anime_id": 41353,
+    "Name": "The God of High School",
+    "Ratings": 7.07,
+    "Genres": "Action, Sci-Fi, Adventure, Comedy, Supernatural, Martial Arts, Fantasy",
+    "Type": "TV",
+    "Episodes": 13,
+    "Members": 480227
+  },
+  {
+    "anime_id": 3457,
+    "Name": "Vampire Knight",
+    "Ratings": 7.03,
+    "Genres": "Drama, Mystery, Romance, Shoujo, Supernatural, Vampire",
+    "Type": "TV",
+    "Episodes": 13,
+    "Members": 479832
+  },
+  {
+    "anime_id": 32951,
+    "Name": "Rokudenashi Majutsu Koushi to Akashic Records",
+    "Ratings": 7.19,
+    "Genres": "Action, Magic, Fantasy, School",
+    "Type": "TV",
+    "Episodes": 12,
+    "Members": 478935
+  },
+  {
+    "anime_id": 790,
+    "Name": "Ergo Proxy",
+    "Ratings": 7.92,
+    "Genres": "Psychological, Mystery, Sci-Fi",
+    "Type": "TV",
+    "Episodes": 23,
+    "Members": 478552
+  },
+  {
+    "anime_id": 23233,
+    "Name": "Shinmai Maou no Testament",
+    "Ratings": 6.8,
+    "Genres": "Action, Ecchi, Fantasy, Romance, Harem, Demons",
+    "Type": "TV",
+    "Episodes": 12,
+    "Members": 476324
+  },
+  {
+    "anime_id": 31722,
+    "Name": "Nanatsu no Taizai: Seisen no Shirushi",
+    "Ratings": 7.12,
+    "Genres": "Action, Adventure, Ecchi, Fantasy, Magic, Shounen, Supernatural",
+    "Type": "TV",
+    "Episodes": 4,
+    "Members": 475981
+  },
+  {
+    "anime_id": 14289,
+    "Name": "Sukitte Ii na yo.",
+    "Ratings": 7.49,
+    "Genres": "Drama, Romance, School, Shoujo",
+    "Type": "TV",
+    "Episodes": 13,
+    "Members": 475603
+  },
+  {
+    "anime_id": 392,
+    "Name": "Yuu☆Yuu☆Hakusho",
+    "Ratings": 8.45,
+    "Genres": "Action, Comedy, Demons, Supernatural, Martial Arts, Shounen",
+    "Type": "TV",
+    "Episodes": 112,
+    "Members": 475397
+  },
+  {
+    "anime_id": 38826,
+    "Name": "Tenki no Ko",
+    "Ratings": 8.41,
+    "Genres": "Slice of Life, Drama, Romance, Fantasy",
+    "Type": "Movie",
+    "Episodes": 1,
+    "Members": 475388
+  },
+  {
+    "anime_id": 36949,
+    "Name": "Shokugeki no Souma: San no Sara - Tootsuki Ressha-hen",
+    "Ratings": 8.08,
+    "Genres": "Ecchi, School, Shounen",
+    "Type": "TV",
+    "Episodes": 12,
+    "Members": 474921
+  },
+  {
+    "anime_id": 225,
+    "Name": "Dragon Ball GT",
+    "Ratings": 6.48,
+    "Genres": "Action, Sci-Fi, Adventure, Comedy, Super Power, Magic, Fantasy, Shounen",
+    "Type": "TV",
+    "Episodes": 64,
+    "Members": 472177
+  },
+  {
+    "anime_id": 37799,
+    "Name": "Tokyo Ghoul:re 2nd Season",
+    "Ratings": 6.33,
+    "Genres": "Action, Drama, Horror, Mystery, Psychological, Seinen, Supernatural",
+    "Type": "TV",
+    "Episodes": 12,
+    "Members": 471661
+  },
+  {
+    "anime_id": 38883,
+    "Name": "Haikyuu!!: To the Top",
+    "Ratings": 8.39,
+    "Genres": "Comedy, Sports, Drama, School, Shounen",
+    "Type": "TV",
+    "Episodes": 13,
+    "Members": 470208
+  },
+  {
+    "anime_id": 43,
+    "Name": "Koukaku Kidoutai",
+    "Ratings": 8.29,
+    "Genres": "Action, Mecha, Police, Psychological, Sci-Fi, Seinen",
+    "Type": "Movie",
+    "Episodes": 1,
+    "Members": 468279
+  },
+  {
+    "anime_id": 32998,
+    "Name": "91 Days",
+    "Ratings": 7.84,
+    "Genres": "Action, Drama, Historical",
+    "Type": "TV",
+    "Episodes": 12,
+    "Members": 466565
+  },
+  {
+    "anime_id": 16067,
+    "Name": "Nagi no Asu kara",
+    "Ratings": 8.09,
+    "Genres": "Drama, Fantasy, Romance",
+    "Type": "TV",
+    "Episodes": 26,
+    "Members": 466251
+  },
+  {
+    "anime_id": 7724,
+    "Name": "Shiki",
+    "Ratings": 7.79,
+    "Genres": "Horror, Mystery, Supernatural, Thriller, Vampire",
+    "Type": "TV",
+    "Episodes": 22,
+    "Members": 465342
+  },
+  {
+    "anime_id": 527,
+    "Name": "Pokemon",
+    "Ratings": 7.34,
+    "Genres": "Action, Adventure, Comedy, Kids, Fantasy",
+    "Type": "TV",
+    "Episodes": 276,
+    "Members": 464779
+  },
+  {
+    "anime_id": 5630,
+    "Name": "Higashi no Eden",
+    "Ratings": 7.83,
+    "Genres": "Action, Sci-Fi, Mystery, Drama, Romance, Thriller",
+    "Type": "TV",
+    "Episodes": 11,
+    "Members": 464410
+  },
+  {
+    "anime_id": 11499,
+    "Name": "Sankarea",
+    "Ratings": 7.36,
+    "Genres": "Comedy, Ecchi, Horror, Romance, Shounen, Supernatural",
+    "Type": "TV",
+    "Episodes": 12,
+    "Members": 464331
+  },
+  {
+    "anime_id": 15315,
+    "Name": "Mondaiji-tachi ga Isekai kara Kuru Sou Desu yo?",
+    "Ratings": 7.56,
+    "Genres": "Action, Comedy, Fantasy, Supernatural",
+    "Type": "TV",
+    "Episodes": 10,
+    "Members": 463838
+  },
+  {
+    "anime_id": 9513,
+    "Name": "Beelzebub",
+    "Ratings": 7.91,
+    "Genres": "Action, Comedy, Demons, Supernatural, School, Shounen",
+    "Type": "TV",
+    "Episodes": 60,
+    "Members": 462977
+  },
+  {
+    "anime_id": 39195,
+    "Name": "Beastars",
+    "Ratings": 8.05,
+    "Genres": "Slice of Life, Psychological, Drama, Shounen",
+    "Type": "TV",
+    "Episodes": 12,
+    "Members": 462481
+  },
+  {
+    "anime_id": 32949,
+    "Name": "Kuzu no Honkai",
+    "Ratings": 7.31,
+    "Genres": "Drama, Romance, School, Seinen",
+    "Type": "TV",
+    "Episodes": 12,
+    "Members": 462466
+  },
+  {
+    "anime_id": 355,
+    "Name": "Shakugan no Shana",
+    "Ratings": 7.51,
+    "Genres": "Action, Drama, Fantasy, Romance, School, Supernatural",
+    "Type": "TV",
+    "Episodes": 24,
+    "Members": 462389
+  },
+  {
+    "anime_id": 33489,
+    "Name": "Little Witch Academia (TV)",
+    "Ratings": 7.91,
+    "Genres": "Adventure, Comedy, Fantasy, Magic, School",
+    "Type": "TV",
+    "Episodes": 25,
+    "Members": 461846
+  },
+  {
+    "anime_id": 31646,
+    "Name": "3-gatsu no Lion",
+    "Ratings": 8.43,
+    "Genres": "Drama, Game, Seinen, Slice of Life",
+    "Type": "TV",
+    "Episodes": 22,
+    "Members": 461713
+  },
+  {
+    "anime_id": 1604,
+    "Name": "Katekyo Hitman Reborn!",
+    "Ratings": 8.18,
+    "Genres": "Action, Comedy, Shounen, Super Power",
+    "Type": "TV",
+    "Episodes": 203,
+    "Members": 461380
+  },
+  {
+    "anime_id": 30123,
+    "Name": "Akagami no Shirayuki-hime",
+    "Ratings": 7.79,
+    "Genres": "Fantasy, Romance, Drama, Shoujo",
+    "Type": "TV",
+    "Episodes": 12,
+    "Members": 459085
+  },
+  {
+    "anime_id": 6213,
+    "Name": "Toaru Kagaku no Railgun",
+    "Ratings": 7.72,
+    "Genres": "Action, Sci-Fi, Super Power",
+    "Type": "TV",
+    "Episodes": 24,
+    "Members": 458949
+  },
+  {
+    "anime_id": 34280,
+    "Name": "Gamers!",
+    "Ratings": 6.92,
+    "Genres": "Game, Comedy, Romance, School",
+    "Type": "TV",
+    "Episodes": 12,
+    "Members": 455313
+  },
+  {
+    "anime_id": 17729,
+    "Name": "Grisaia no Kajitsu",
+    "Ratings": 7.55,
+    "Genres": "Drama, Harem, Psychological, Romance, School",
+    "Type": "TV",
+    "Episodes": 13,
+    "Members": 453783
+  },
+  {
+    "anime_id": 34618,
+    "Name": "Blend S",
+    "Ratings": 7.36,
+    "Genres": "Slice of Life, Comedy",
+    "Type": "TV",
+    "Episodes": 12,
+    "Members": 453108
+  },
+  {
+    "anime_id": 23277,
+    "Name": "Saenai Heroine no Sodatekata",
+    "Ratings": 7.54,
+    "Genres": "Harem, Comedy, Romance, Ecchi, School",
+    "Type": "TV",
+    "Episodes": 12,
+    "Members": 451172
+  },
+  {
+    "anime_id": 11577,
+    "Name": "Steins;Gate Movie: Fuka Ryouiki no Déjà vu",
+    "Ratings": 8.5,
+    "Genres": "Sci-Fi, Drama",
+    "Type": "Movie",
+    "Episodes": 1,
+    "Members": 446967
+  },
+  {
+    "anime_id": 31580,
+    "Name": "Ajin",
+    "Ratings": 7.49,
+    "Genres": "Action, Mystery, Horror, Supernatural, Seinen",
+    "Type": "TV",
+    "Episodes": 13,
+    "Members": 446881
+  },
+  {
+    "anime_id": 19163,
+    "Name": "Date A Live II",
+    "Ratings": 7.24,
+    "Genres": "Comedy, Harem, Mecha, Romance, School, Sci-Fi",
+    "Type": "TV",
+    "Episodes": 10,
+    "Members": 445431
+  },
+  {
+    "anime_id": 38101,
+    "Name": "5-toubun no Hanayome",
+    "Ratings": 7.59,
+    "Genres": "Harem, Comedy, Romance, School, Shounen",
+    "Type": "TV",
+    "Episodes": 12,
+    "Members": 442930
+  },
+  {
+    "anime_id": 6594,
+    "Name": "Katanagatari",
+    "Ratings": 8.36,
+    "Genres": "Action, Adventure, Historical, Martial Arts, Romance",
+    "Type": "TV",
+    "Episodes": 12,
+    "Members": 442694
+  },
+  {
+    "anime_id": 40839,
+    "Name": "Kanojo, Okarishimasu",
+    "Ratings": 7.37,
+    "Genres": "Comedy, Romance, School, Shounen",
+    "Type": "TV",
+    "Episodes": 12,
+    "Members": 442452
+  },
+  {
+    "anime_id": 37141,
+    "Name": "Hataraku Saibou (TV)",
+    "Ratings": 7.64,
+    "Genres": "Comedy, Shounen",
+    "Type": "TV",
+    "Episodes": 13,
+    "Members": 439537
+  },
+  {
+    "anime_id": 578,
+    "Name": "Hotaru no Haka",
+    "Ratings": 8.51,
+    "Genres": "Drama, Historical",
+    "Type": "Movie",
+    "Episodes": 1,
+    "Members": 438214
+  },
+  {
+    "anime_id": 36098,
+    "Name": "Kimi no Suizou wo Tabetai",
+    "Ratings": 8.59,
+    "Genres": "Drama",
+    "Type": "Movie",
+    "Episodes": 1,
+    "Members": 437815
+  },
+  {
+    "anime_id": 2034,
+    "Name": "Lovely★Complex",
+    "Ratings": 8.06,
+    "Genres": "Comedy, Romance, Shoujo",
+    "Type": "TV",
+    "Episodes": 24,
+    "Members": 437765
+  },
+  {
+    "anime_id": 6707,
+    "Name": "Kuroshitsuji II",
+    "Ratings": 7.22,
+    "Genres": "Action, Comedy, Historical, Demons, Supernatural, Shounen",
+    "Type": "TV",
+    "Episodes": 12,
+    "Members": 437730
+  }
+]
